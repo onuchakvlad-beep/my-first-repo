@@ -1,1 +1,1 @@
-print("Help me!!!")
+print("пусто")
